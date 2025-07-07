@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/muhammad fahreza" target="blank"><img src="https://img.shields.io/twitter/follow/muhammad fahreza?logo=twitter&style=for-the-badge" alt="muhammad fahreza" /></a> </p>
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **Nextjs**
 
 - 💬 Ask me about **Android, Flutter**
 
