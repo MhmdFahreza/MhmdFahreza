@@ -25,16 +25,16 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+  <a href="https://x.com/Muhamma83709506" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-fahreza-a20975285" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/imfhrz" target="_blank">
+  <a href="https://www.instagram.com/imfhrz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://youtube.com/@YOUR_YOUTUBE_USERNAME" target="_blank">
+  <a href="https://www.youtube.com/@FareekzYT" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
