@@ -14,11 +14,11 @@
 
 ### `whoami`
 
-> A developer who enjoys turning ideas into real products — whether it's a web app, a mobile experience, or something you can play.  
+> I'm just a casual developer, with a cup of coffee by my side ☕
 
 ---
 
-### `./links`
+### `Bio`
 
 <div align="center">
 
