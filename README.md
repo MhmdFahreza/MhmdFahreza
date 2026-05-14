@@ -15,7 +15,6 @@
 ### `whoami`
 
 > A developer who enjoys turning ideas into real products — whether it's a web app, a mobile experience, or something you can play.  
-> Currently exploring **Next.js** and always looking for the next thing to build.
 
 ---
 
