@@ -10,7 +10,7 @@ My full name is **Muhammad Fahreza**, but most people call me **Fahreza** and th
 
 I believe that building something truly useful requires focus. That’s why I’m not spreading myself too thin right now, I’m diving deep into web and mobile development, from building clean UIs to designing user-friendly Android apps. For me, good code isn’t just code that works, but code that others can understand and maintain.
 
-In my free time, I like to explore new technologies, contribute to small projects, and occasionally write about what I’ve learned—because sharing knowledge is the best way to truly understand it.
+In my free time, I like to explore new technologies, contribute to small projects, and occasionally write about what I’ve learned because sharing knowledge is the best way to truly understand it.
 
 ---
 
