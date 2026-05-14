@@ -46,7 +46,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MhmdFahreza&label=profile+views&color=00c8ff&style=flat" />
-</div>
