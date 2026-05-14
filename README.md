@@ -1,50 +1,52 @@
-<p align="center">
-  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="MasterHead" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Muhammad Fahreza</h1>
-<h3 align="center">Web Developer | Mobile Developer | Game Developer ✨</h3>
+```
+███████╗ █████╗ ██╗  ██╗██████╗ ███████╗███████╗ █████╗ 
+██╔════╝██╔══██╗██║  ██║██╔══██╗██╔════╝╚════██╗██╔══██╗
+█████╗  ███████║███████║██████╔╝█████╗      ██╔╝███████║
+██╔══╝  ██╔══██║██╔══██║██╔══██╗██╔══╝     ██╔╝ ██╔══██║
+██║     ██║  ██║██║  ██║██║  ██║███████╗███████╗██║  ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhmdf&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+</div>
 
----
+<br/>
 
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Web+%7C+Mobile+%7C+Game+Developer;Always+building+something+new.;Code.+Create.+Ship." alt="Typing SVG" />
+</div>
 
-### 👨‍💻 About Me
-
-- 🌱 I’m currently learning **Next.js**
-- 💬 Ask me about **Android, Flutter, and Web Development**
-- 📫 Reach me at **muhammadfahreza0838@gmail.com**
-- ⚡ Fun fact: **I think I'm cute 😄**
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://x.com/Muhamma83709506" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-fahreza-a20975285" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/imfhrz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/@FareekzYT" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
+<br/>
 
 ---
 
-### 🛠️ Languages and Tools
+### `whoami`
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=android,bootstrap,cs,css,dart,figma,firebase,flutter,git,go,html,js,kotlin,laravel,mysql,nodejs,php,python,react,tailwind,ts,unity" />
-</p>
+> A developer who enjoys turning ideas into real products — whether it's a web app, a mobile experience, or something you can play.  
+> Currently exploring **Next.js** and always looking for the next thing to build.
 
 ---
+
+### `./links`
+
+<div align="center">
+
+**Everything about me — social, projects, and contact — is in one place:**
+
+[![Portfolio & Links](https://img.shields.io/badge/fahreza--bio.netlify.app-%2300C8FF?style=for-the-badge&logo=netlify&logoColor=white)](https://fahreza-bio.netlify.app/)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MhmdFahreza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MhmdFahreza&theme=tokyonight&hide_border=true" height="150" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MhmdFahreza&label=profile+views&color=00c8ff&style=flat" />
+</div>
